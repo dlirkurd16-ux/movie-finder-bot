@@ -5,3 +5,4 @@ Pillow
 aiohttp
 beautifulsoup4
 lxml
+pyTelegramBotAPI
